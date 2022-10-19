@@ -1,8 +1,8 @@
 # Laboration 2 
 ## LÄS DETTA FÖRST
 **Deadline**: 2022/10/9 23:59 (Söndag den 9e oktober)
-**Komplettering 1 Deadline**: 2022/10/16 23:59 (Söndag den 16e oktober)
-**Komplettering 2 Deadline**: 2022/10/23 23:59 (Söndag den 23e oktober)
+**Komplettering 1 Deadline**: 2022/10/16 23:59 (Onsdag den 19e oktober)
+**Komplettering 2 Deadline**: 2022/10/27 23:59 (Torsdag den 27e oktober)
 **Betyg**: U, G, VG
 
 - För att få G ska applikationen fungera och vara relativt buggfri, du ska hantera errors i större grad.
